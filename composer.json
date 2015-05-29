@@ -3,7 +3,7 @@
 	"repositories": [
 		{
 		"type": "git",
-		"url": "https://github.com/shnir/town.git"
+		"url": "http://github.com/shnir/town.git"
 		}
 	],
     "minimum-stability": "dev",
