@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c9b2275e833b7881c10e4b37d9607ee8",
+    "packages": [
+        {
+            "name": "shnir/town",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "http://github.com/shnir/town.git",
+                "reference": "59a31900bd047c804b4b19dd4ee15edc07d668b8"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "apartment.php",
+                    "house.php",
+                    "oop4-1.php",
+                    "oop4-2-1.php",
+                    "oop4-2-2.php",
+                    "oop4-3.php",
+                    "street.php",
+                    "town.php"
+                ]
+            },
+            "authors": [
+                {
+                    "name": "Andrey Kushnarev",
+                    "email": "shnir.g@gmail.com"
+                }
+            ],
+            "description": "town",
+            "time": "2015-05-29 11:55:23"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

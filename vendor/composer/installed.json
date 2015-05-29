@@ -1,0 +1,34 @@
+[
+    {
+        "name": "shnir/town",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "http://github.com/shnir/town.git",
+            "reference": "59a31900bd047c804b4b19dd4ee15edc07d668b8"
+        },
+        "time": "2015-05-29 11:55:23",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "apartment.php",
+                "house.php",
+                "oop4-1.php",
+                "oop4-2-1.php",
+                "oop4-2-2.php",
+                "oop4-3.php",
+                "street.php",
+                "town.php"
+            ]
+        },
+        "authors": [
+            {
+                "name": "Andrey Kushnarev",
+                "email": "shnir.g@gmail.com"
+            }
+        ],
+        "description": "town"
+    }
+]

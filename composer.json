@@ -1,0 +1,19 @@
+{
+    "name": "shnir/town2",
+	"repositories": [
+		{
+		"type": "git",
+		"url": "http://github.com/shnir/town.git"
+		}
+	],
+    "minimum-stability": "dev",
+    "require": {
+        "shnir/town": "*"
+    },
+    "authors": [
+        {
+            "name": "Andrey Kushnarev",
+            "email": "shnir.g@gmail.com"
+        }
+    ]
+}
