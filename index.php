@@ -5,6 +5,9 @@
 <?php
 include 'head.html';
 ?>
+
+
+
     <title>OOP and DB</title>
     <h2>OOP</h2>
     <a href="oop1-1.php"><h3>OOP Task 1. Practice 1: PHP basics</h3></a>
