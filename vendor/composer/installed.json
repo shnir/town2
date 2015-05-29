@@ -6,9 +6,9 @@
         "source": {
             "type": "git",
             "url": "http://github.com/shnir/town.git",
-            "reference": "59a31900bd047c804b4b19dd4ee15edc07d668b8"
+            "reference": "8d824dcd53607892912924f79662033cd8783aed"
         },
-        "time": "2015-05-29 11:55:23",
+        "time": "2015-05-29 13:19:58",
         "type": "library",
         "installation-source": "source",
         "autoload": {

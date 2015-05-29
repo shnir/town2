@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c9b2275e833b7881c10e4b37d9607ee8",
+    "hash": "42356442d5b54c8dac617b94417ad835",
     "packages": [
         {
             "name": "shnir/town",
@@ -12,7 +12,7 @@
             "source": {
                 "type": "git",
                 "url": "http://github.com/shnir/town.git",
-                "reference": "59a31900bd047c804b4b19dd4ee15edc07d668b8"
+                "reference": "8d824dcd53607892912924f79662033cd8783aed"
             },
             "type": "library",
             "autoload": {
@@ -34,7 +34,7 @@
                 }
             ],
             "description": "town",
-            "time": "2015-05-29 11:55:23"
+            "time": "2015-05-29 13:19:58"
         }
     ],
     "packages-dev": [],
